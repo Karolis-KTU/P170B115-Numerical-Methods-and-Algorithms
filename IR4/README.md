@@ -25,7 +25,7 @@ Uždaviniuose naudokite laisvojo kritimo pagreitį $g=9,8m/s^2$.
 
 ## Uždavinio pavyzdys
 
-$m_1$ kg masės parašiutininkas iššoka iš lėktuvo (įrangos masė nevertinama). Pasiekęs $h_0$ m aukštį parašiutininkas išskleidžia parašiutą. Tuo metu jo greitis lygus $v_0$ m/s. Oro pasipriešinimo jėga proporcinga greičio kvadratui, o proporcingumo koeficientas lygus $k$ kg/m. Raskite, kaip kinta parašiutininko greitis. 
+$m_1$ kg masės parašiutininkas iššoka iš lėktuvo (įrangos masė nevertinama). Pasiekęs $h_0$ m aukštį parašiutininkas išskleidžia parašiutą. Tuo metu jo greitis lygus $v_0$ m/s. Oro pasipriešinimo jėga proporcinga greičio kvadratui, o proporcingumo koeficientas lygus $k$ kg/m. Raskite, kaip kinta parašiutininko greitis.
 
 ![Kūną veikiančių jėgų schema](pvz_uzduotis.png)
 
@@ -48,3 +48,35 @@ Sujungti $m_1$ ir $m_2$ masių objektai iššaunami vertikaliai į viršų pradi
 | 8 | 0,05 | 0,3 | 100 | 0,01 | 3 | 0,05 | 0,01 | 10 |
 | 9 | 0,4 | 0,8 | 50 | 0,001 | 2 | 0,02 | 0,02 | 10 |
 | 10 | 0,8 | 0,8 | 200 | 0,01 | 2 | 0,02 | 0,005 | 15 |
+
+## Uždavinys variantams 11-20
+
+$m_1$ masės parašiutininkas su $m_2$ masės įranga iššoka iš lėktuvo, kuris skrenda aukštyje $h_0$. Po $t_g$ laisvo kritimo parašiutas išskleidžiamas. Oro pasipriešinimo koeficientas laisvo kritimo metu lygus $k_1$, o išskleidus parašiutą - $k2$. Tariama, kad paliekant lėktuvą parašiutininko greitis lygus 0 m/s, o oro pasipriešinimas proporcingas parašiutininko greičio kvadratui. Raskite, kaip kinta parašiutininko greitis nuo 0 s iki nusileidimo. Kada ir kokiu greičiu parašiutininkas pasiekia žemę? Kokiame aukštyje išskleidžiamas parašiutas?
+| Varianto numeris | $m_1$, kg | $m_2$, kg | $h_0$, m | $t_g$, s | $k_1$, kg/m | $k_2$, kg/m |
+|---|---|---|---|---|---|---|
+| 11 | 100 | 15 | 3000 | 40 | 0,5 | 10 |
+| 12 | 70 | 15 | 4000 | 40 | 0,1 | 5 |
+| 13 | 50 | 15 | 3500 | 35 | 0,1 | 7 |
+| 14 | 125 | 25 | 2000 | 20 | 0,5 | 10 |
+| 15 | 120 | 10 | 2800 | 25 | 0,25 | 10 |
+| 16 | 90 | 15 | 3500 | 40 | 0,5 | 3 |
+| 17 | 85 | 10 | 2500 | 35 | 0,2 | 10 |
+| 18 | 60 | 15 | 3500 | 25 | 0,3 | 10 |
+| 19 | 75 | 10 | 2200 | 30 | 0,3 | 10 |
+| 20 | 120 | 15 | 2800 | 35 | 0,15 | 10 |
+
+## Uždavinys variantams 21-30
+
+$m$ masės sviedinys iššaunamas vertikaliai į viršų pradiniu greičiu $v_0$ iš aukščio $h_0$. Žinoma, kad oro pasipriešinimas proporcingas sviedinio greičio kvadratui, o proporcingumo koeficientas lygus $k_1$, kai sviedinys kyla, ir $k_2$, kai sviedinys leidžiasi. Kokį maksimalų aukštį ir kada pasieks sviedinys? Kada sviedinys nusileis ant žemės?
+| Varianto numeris | $m$, kg | $v_0$, kg | $h_0$, m | $k_1$, kg/m | $k_2$, kg/m |
+|---|---|---|---|---|---|
+| 21 | 0,5 | 50 | 30 | 0,015 | 0,05 |
+| 22 | 10 | 100 | 30 | 0,05 | 0,01 |
+| 23 | 2 | 60 | 15 | 0,1 | 0,5 |
+| 24 | 0,2 | 50 | 100 | 0,01 | 0,005 |
+| 25 | 5 | 80 | 5 | 0,15 | 0,6 |
+| 26 | 0,5 | 80 | 20 | 0,1 | 0,4 |
+| 27 | 10 | 100 | 100 | 0,01 | 0,05 |
+| 28 | 3 | 60 | 50 | 0,1 | 0,4 |
+| 29 | 1 | 100 | 30 | 0,2 | 0,5 |
+| 30 | 0,5 | 70 | 100 | 0,005 | 0,02 |
