@@ -51,7 +51,7 @@ Sujungti $m_1$ ir $m_2$ masių objektai iššaunami vertikaliai į viršų pradi
 
 ## Uždavinys variantams 11-20
 
-$m_1$ masės parašiutininkas su $m_2$ masės įranga iššoka iš lėktuvo, kuris skrenda aukštyje $h_0$. Po $t_g$ laisvo kritimo parašiutas išskleidžiamas. Oro pasipriešinimo koeficientas laisvo kritimo metu lygus $k_1$, o išskleidus parašiutą - $k2$. Tariama, kad paliekant lėktuvą parašiutininko greitis lygus 0 m/s, o oro pasipriešinimas proporcingas parašiutininko greičio kvadratui. Raskite, kaip kinta parašiutininko greitis nuo 0 s iki nusileidimo. Kada ir kokiu greičiu parašiutininkas pasiekia žemę? Kokiame aukštyje išskleidžiamas parašiutas?
+$m_1$ masės parašiutininkas su $m_2$ masės įranga iššoka iš lėktuvo, kuris skrenda aukštyje $h_0$. Po $t_g$ laisvo kritimo parašiutas išskleidžiamas. Oro pasipriešinimo koeficientas laisvo kritimo metu lygus $k_1$, o išskleidus parašiutą - $k_2$. Tariama, kad paliekant lėktuvą parašiutininko greitis lygus 0 m/s, o oro pasipriešinimas proporcingas parašiutininko greičio kvadratui. Raskite, kaip kinta parašiutininko greitis nuo 0 s iki nusileidimo. Kada ir kokiu greičiu parašiutininkas pasiekia žemę? Kokiame aukštyje išskleidžiamas parašiutas?
 | Varianto numeris | $m_1$, kg | $m_2$, kg | $h_0$, m | $t_g$, s | $k_1$, kg/m | $k_2$, kg/m |
 |---|---|---|---|---|---|---|
 | 11 | 100 | 15 | 3000 | 40 | 0,5 | 10 |
