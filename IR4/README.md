@@ -1,5 +1,5 @@
 
-# ?? PAVADINIMAS ??
+# Paprastųjų diferencialinių lygčių sprendimas
 
 ## Bendroji sąlyga
 
