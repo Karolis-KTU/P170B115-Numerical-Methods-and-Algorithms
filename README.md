@@ -3,4 +3,4 @@
 - [x] IR1 - Netiesinių lygčių sprendimas
 - [x] IR2 - Lygčių sistemų sprendimas ir optimizavimas
 - [x] IR3 - Interpoliavimas, aproksimavimas
-- [x] IR4 - 
+- [x] IR4 - Paprastųjų diferencialinių lygčių sprendimas
